@@ -21,6 +21,12 @@ All pipeline outputs are deployed automatically to GitHub Pages.
 ### Main Portal
 - [ERGS Reports Portal](https://debasish-87.github.io/enterprise-release-governance-system/)
 
+### Watch ERGS Demo 
+
+🎥 Demo Video: https://youtu.be/rC9K4sqsgE0
+
+https://github.com/user-attachments/assets/fa3389f5-002e-4cd2-a149-38e08344ee38
+
 ### Reports Navigation
 
 | Report Type | Live Link |
