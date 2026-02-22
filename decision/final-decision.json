@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-02-22T07:31:08.610855Z",
+  "repo": "Debasish-87/ReleaseGuard",
+  "commit": "4160655aa8b1fc6a42cfdd7fcb508f2162d5dc6c",
+  "run_id": "22272779900",
+  "run_link": "https://github.com/Debasish-87/ReleaseGuard/actions/runs/22272779900",
+  "final_decision": "HOLD",
+  "reasoning": [
+    "Input Path Used = release-decision/input/release-summary.json",
+    "Layer1 status = PASSED",
+    "Semgrep ERROR = 11",
+    "Trivy HIGH/CRITICAL = 0/0",
+    "Grype HIGH/CRITICAL = 0/0",
+    "KPQE Decision = RELEASE ALLOWED \u2705"
+  ]
+}
